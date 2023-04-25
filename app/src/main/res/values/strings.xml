@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="txt_BasedeDatos">PRUEBA</string>
+    <string name="txt_resultado"></string>
+    <string name="btn_CrearDB">Crear DB</string>
+    <string name="btn_Registrarse">Registrarse</string>
+    <string name="btn_IniciarSesison">Es fibonacci</string>
+    <string name="btn_EliminarDB">Eliminar info DB</string>
+    <string name="txt_EnviarInfo">Enviar Informacion</string>
+    <string name="hint_correo">Fibonnaci:</string>
+    <string name="hint_Contraseña">Contraseña:</string>
+    <string name="hint_Apellidos">Apellidos:</string>
+    <string name="btn_Enviar">Envair Datos</string>
+    <string name="txt_Calculadora">Calculadora</string>
+
+    <string name="txt_info">Digite dos numero para hacer las operaciones basicas</string>
+    <string name="hint_num1">Digite el primer numero:</string>
+    <string name="hint_num2">Digite el segundo numero:</string>
+    <string name="btn_calculo">Hacer calculo</string>
+</resources>
