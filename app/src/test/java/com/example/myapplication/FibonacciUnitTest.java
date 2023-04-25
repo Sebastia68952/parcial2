@@ -15,15 +15,11 @@ public class FibonacciUnitTest {
     @Test
     public void testFibonacciVacio() {
         fibonacci.txtfibonnaci(" ");
-        String nombreCompleto = formulario.getNombreCompleto();
     }
 
     @Test
     public void testFibonacciLleno() {
-        fibonacci.("1");
-        String mensajeBienvenida = formulario.getMensajeBienvenida();
-        assertEquals("¡Bienvenido, Juan Perez! Tienes 30 años.",
-                mensajeBienvenida);
+        fibonacci.txtfibonnaci("1");
     }
 }
 
